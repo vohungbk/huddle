@@ -38,7 +38,7 @@ export const Footer = () => {
           <SocialIcons />
         </Flex>
 
-        <p>&copy; 2022 Huddle. All rights reserved</p>
+        <p>&copy; 2022 HungVo. All rights reserved</p>
       </StyledContainer>
     </StyledFooter>
   );
