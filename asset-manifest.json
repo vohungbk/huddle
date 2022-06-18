@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/huddle/static/js/main.aa662974.js",
+    "main.js": "/huddle/static/js/main.5e5b19ef.js",
     "static/js/787.a631c773.chunk.js": "/huddle/static/js/787.a631c773.chunk.js",
     "index.html": "/huddle/index.html",
-    "main.aa662974.js.map": "/huddle/static/js/main.aa662974.js.map",
+    "main.5e5b19ef.js.map": "/huddle/static/js/main.5e5b19ef.js.map",
     "787.a631c773.chunk.js.map": "/huddle/static/js/787.a631c773.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa662974.js"
+    "static/js/main.5e5b19ef.js"
   ]
 }
