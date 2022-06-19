@@ -11,15 +11,15 @@ export const Footer = () => {
         <Flex>
           <ul>
             <li>
-              <img src="./images/icon-location.svg" alt="" />
+              <img width={20} height={20} src="./images/icon-location.svg" alt="" />
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
             </li>
             <li>
-              <img src="./images/icon-phone.svg" alt="" />
+              <img width={20} height={20} src="./images/icon-phone.svg" alt="" />
               +1-543-123-4567
             </li>
             <li>
-              <img src="./images/icon-email.svg" alt="" />
+              <img width={20} height={20} src="./images/icon-email.svg" alt="" />
               example@huddle.com
             </li>
           </ul>
